@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'vuelos.apps.PagesConfig'#new
+    'vuelos.apps.VuelosConfig'#new
 ]
 
 MIDDLEWARE = [

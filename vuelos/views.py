@@ -31,3 +31,5 @@ class CreateFlight(View):
             viewData["title"] = "Create product"
             viewData["form"] = form
             return render(request, self.template_name, viewData)
+
+class ListFlight()
